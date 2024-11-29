@@ -14,6 +14,9 @@ authors:
     family-names: Nenadic
   - given-names: Kamilla
     family-names: Kopec-Harding
+  - given-names: Sam
+    family-names: Mangham
+    orcid: 0000-0001-7511-5652
 repository-code: >-
   https://github.com/YOUR-REPOSITORY-URL/spacewalks.git
 abstract: >-
@@ -22,3 +25,7 @@ abstract: >-
 keywords:
   - NASA
   - Extravehicular activity
+identifiers:
+  - type: doi
+    value: 10.5072/zenodo.137907
+date-released: 2024-11-29
