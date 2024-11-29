@@ -18,13 +18,15 @@ authors:
     family-names: Mangham
     orcid: 0000-0001-7511-5652
 repository-code: >-
-  https://github.com/YOUR-REPOSITORY-URL/spacewalks.git
+  https://github.com/smangham/spacewalks.git
 abstract: >-
   A Python script to analyse NASA extravehicular activity
   data
 keywords:
   - NASA
   - Extravehicular activity
+version: 1.0.0
+license: MIT
 identifiers:
   - type: doi
     value: 10.5072/zenodo.137907
