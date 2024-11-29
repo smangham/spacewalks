@@ -17,6 +17,8 @@ authors:
   - given-names: Sam
     family-names: Mangham
     orcid: 0000-0001-7511-5652
+  - given-names: Piriyan
+    family-names: Karu
 repository-code: >-
   https://github.com/smangham/spacewalks.git
 abstract: >-
