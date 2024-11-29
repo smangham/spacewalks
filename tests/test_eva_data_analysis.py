@@ -44,5 +44,5 @@ def test_calculate_crew_size_edge_cases():
     Test that calculate_crew_size returns expected ground truth values
     for edge case where crew is an empty string
     """
-    actual_result = calculate_crew_size(""))
+    actual_result = calculate_crew_size("")
     assert actual_result is None
